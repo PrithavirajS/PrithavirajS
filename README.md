@@ -10,7 +10,6 @@ data engineer / analyst / occasional fortune teller (predictions, not tarot)
 ### what i actually do
 
 - 🔧 build pipelines that don't fall over at 3 A.M. 🫩
-- 📈 turn messy spreadsheets into things people can actually trust
 - 🔮 make predictive models that are right often enough to sound smart
 - 🚀 ship dashboards that get opened more than once
 
@@ -33,7 +32,5 @@ Chaos    → ██████░░░░░░░░░░░░░░  30%
 Insights → ████████████████░░░░  80%
 ```
 
-not chasing hype, just chasing clean pipelines and decent predictions. Feel free not to poke around.
-
 ---
-< sub> If a graph looks too perfect, I probably overfit it.</sub>
+< sub>If a graph looks too perfect, I probably overfit it.</sub>
