@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="left">Hey , i'm just here moving data around 📊</h1>
 
-<!--
-**PrithavirajS/PrithavirajS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```
+> whoami
+data engineer / analyst / occasional fortune teller (predictions, not tarot)
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### what i actually do
+
+- 🔧 build pipelines that don't fall over at 3 A.M. 🫩
+- 📈 turn messy spreadsheets into things people can actually trust
+- 🔮 make predictive models that are right often enough to sound smart
+- 🚀 ship dashboards that get opened more than once
+
+
+### currently
+
+- 📡 working on making data pipelines a little more self-sufficient
+- 🧠 exploring where analysis ends and prediction begins
+
+
+### stack I keep coming back to
+
+`Python` `SQL` `Pandas` `Databricks` `dbt` `Scikit-learn` `Tableau/Power BI`
+
+### Stats?
+
+```
+Data In  → ████████████████████ 100%
+Chaos    → ██████░░░░░░░░░░░░░░  30%
+Insights → ████████████████░░░░  80%
+```
+
+not chasing hype, just chasing clean pipelines and decent predictions. Feel free not to poke around.
+
+---
+< sub> If a graph looks too perfect, I probably overfit it.</sub>
